@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624061072543",
+    "project_id": "musicapp-280d6",
+    "storage_bucket": "musicapp-280d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624061072543:android:8b307bfe9642f9ac624eaa",
+        "android_client_info": {
+          "package_name": "com.example.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDgH6L-2ZrcXLYfLopbU0VwrmNWACXxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
