@@ -29,6 +29,7 @@
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:src="@drawable/icon_menu"
+            android:id="@+id/option_btn"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"/>
     </RelativeLayout>
